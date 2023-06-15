@@ -1,9 +1,10 @@
-# Monect Layouts for Android
-### Monect software let's you control your PC from your Android Mobile (Pretty cool ryt!). All you need is a Remote Desktop Reciever software and an android app.
+# Monect Layouts for Android     
+Monect let's you control your PC/Laptop from your Android Mobile (pretty cool ryt !). All you need is a Remote PC Receiver Software on your PC/Laptop and an android Client app on your Mobile.    
+
 ---- 
 # Installations
-1. Download and install the Monect `PC Remote Reciever` on your Windows PC/Laptop from **[here](https://www.monect.com/#download)**    
-2. Install the Monect `PC Remote` app on your Android Mobile from **[here](https://play.google.com/store/search?q=monect+pc+remote&c=apps&pli=1)**    
+1. Download and install the Monect `PC Remote Reciever` on your Windows PC/Laptop from **[here](https://www.monect.com/#download)**.    
+2. Install the Monect `PC Remote` app on your Android Mobile from **[here](https://play.google.com/store/search?q=monect+pc+remote&c=apps&pli=1)**.    
 
 # Setup :    
 1. Turn on Mobile hotspot of your PC/Laptop.
@@ -25,7 +26,7 @@ As for the purpose of this repo, We can play Tekken 7 from our android mobile us
 
 ![developed Xinput layout](img/Tekken7_monectlayout.jpeg)   
 
-Once you have connect yout android PC Remote to your Laptop, you can use the above layout to control your character.    
+Once you have connected android `PC Remote` app to your Laptop, you can use the above layout to control your character.    
 
 ***Happy Gaming ... (●'◡'●)***    
 ----
