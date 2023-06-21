@@ -16,17 +16,23 @@ Monect let's you control your PC/Laptop from your Android Mobile (pretty cool ry
 
 
 # Layouts    
-## 1. Tekken 7 (Xinput Controller) :   
+## 1. Tekken 7 controllers :   
 ![Tekken7 game](img/Tekken7_game.jpeg)  
-Tekken 7 uses Xinput Controller Layout as shown below 
+Tekken 7 uses following Controller Layout as shown below 
 
-![Xinput_Layout](/img/Tekken7_layout.png)   
+![Tekken7_controller_layout](/img/Tekken7_layout.png)   
 
-As for the purpose of this repo, We can play Tekken 7 from our android mobile using the layout i developed. download the `Tekken 7.mlo` file and open it using `PC Remote` on your mobile. You will see the layout as follows    
+As for the purpose of this repo, We can play Tekken 7 from our android mobile using the layouts i developed.
 
-![developed Xinput layout](img/Tekken7_monectlayout.jpeg)   
+1. In this layout, the keyboard keys are mapped with the Tekken 7 move buttons's layout accordingly to play tekken 7. Download the `Tekken7_keyboard.mlo` file and open it using `PC Remote` on your mobile. You will see the layout as follows    
 
-Once you have connected android `PC Remote` app to your Laptop, you can use the above layout to control your character.    
+![Keyboard keys mapped controller](img/Tekken7_keyboard.jpeg)    
+
+2.   In this layout, the actual Xbox 360 controller buttons are mapped with the Tekken 7 Layout buttons and its much smoother than above layout. Download the `Xbox_360.mlo` file and open it using the `PC Remote` app on your mobile. You will see the layout as follows    
+
+![Xbox 360 mapped controller](img/Xbox_360.jpg)
+
+### Once you have connected android `PC Remote` app to your Laptop, you can use the above layout to control your character on PC.    
 
 ***Happy Gaming ... (●'◡'●)***    
 ----
